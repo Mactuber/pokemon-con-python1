@@ -3,4 +3,5 @@ Juego básico en python para emular una batalla pokemon desde un terminal con py
 
 **Para usarlo hay que importar os y random.randint**
 
-![img_del_juego](/Images/juego1.png)
+![img_del_juego](/Images/img_juego1.png)
+![img_del_juego](/Images/img_juego2.png)
